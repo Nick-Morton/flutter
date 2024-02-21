@@ -306,7 +306,6 @@ abstract final class PointerEventConverter {
             case ui.PointerSignalKind.unknown:
               throw StateError('Unreachable');
           }
-          return null;
         }).whereType<PointerEvent>();
   }
 

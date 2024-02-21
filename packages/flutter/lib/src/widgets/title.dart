@@ -5,6 +5,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
+import 'basic.dart';
 import 'framework.dart';
 
 /// A widget that describes this app in the operating system.

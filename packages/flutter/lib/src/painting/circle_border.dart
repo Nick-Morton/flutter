@@ -6,6 +6,7 @@ import 'dart:ui' as ui show lerpDouble;
 
 import 'package:flutter/foundation.dart';
 
+import 'basic_types.dart';
 import 'borders.dart';
 
 /// A border that fits a circle within the available space.

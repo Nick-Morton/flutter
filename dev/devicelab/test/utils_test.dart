@@ -4,6 +4,7 @@
 
 import 'package:flutter_devicelab/framework/utils.dart';
 
+import 'common.dart';
 
 void main() {
   group('grep', () {

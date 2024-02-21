@@ -7,6 +7,7 @@ import 'dart:io';
 import 'package:file/memory.dart';
 
 import '../tool_subsharding.dart';
+import 'common.dart';
 
 void main() {
   group('generateMetrics', () {

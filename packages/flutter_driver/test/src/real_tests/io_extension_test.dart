@@ -4,6 +4,7 @@
 
 import 'package:flutter_driver/src/extension/_extension_io.dart';
 
+import '../../common.dart';
 
 void main() {
   group('test io_extension',() {

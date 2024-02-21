@@ -4,6 +4,7 @@
 
 import 'package:flutter_devicelab/framework/browser.dart';
 
+import '../common.dart';
 import 'browser_test_json_samples.dart';
 
 void main() {

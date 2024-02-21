@@ -5,6 +5,7 @@
 import 'dart:math' as math;
 
 import 'box.dart';
+import 'object.dart';
 import 'sliver.dart';
 import 'sliver_fixed_extent_list.dart';
 

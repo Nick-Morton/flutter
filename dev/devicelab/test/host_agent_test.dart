@@ -7,6 +7,7 @@ import 'package:file/memory.dart';
 import 'package:flutter_devicelab/framework/host_agent.dart';
 import 'package:platform/platform.dart';
 
+import 'common.dart';
 
 void main() {
   late FileSystem fs;
